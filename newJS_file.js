@@ -1,5 +1,5 @@
-console.log('Hello, World!');
-function printMessage(message) {
-    console.log(message);
-}
-printMessage('Hello, World!');
+function print (A,B) {
+    console.log("A");
+    console.log("B");
+}   
+print(1,3);
